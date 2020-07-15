@@ -1,0 +1,31 @@
+CriarConta:
+  email: "teste1@testansns.com.br"
+  nome: "Charles"
+  sobrenome: "Xavier"
+  senha: "Ch156@88"
+  rua: "rua josé do teste"
+  Estado: "Alaker"
+  cep: "36310"
+  tel: "11 55145516"
+  nomevalida: "Charles Xavier"
+
+CompraVestido:
+  compravestspec1: "Product successfully added to your shopping cart"
+  compravestspec2: "BANK-WIRE PAYMENT."
+  compravestspec3: "Your order on My Store is complete."
+
+NovoEndereço:
+  rua2: "Rua do Teste"
+  estado2: "Sao Paulo"
+  cep2: "36310"
+  tel2: "798799898"
+  tel3: "454644444"
+  novend: "my taaaaaste"
+
+
+  
+  
+
+
+
+
